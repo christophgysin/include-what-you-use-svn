@@ -1,4 +1,7 @@
 /src
 /pkg
+/llvm
+/clang
+/include-what-you-use
 /*.src.tar.gz
 /*.pkg.tar.xz
